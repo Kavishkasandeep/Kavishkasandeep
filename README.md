@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishkasandeep&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkasandeep" /> </p>
 
 
-<h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
+<h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
 </h5>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
