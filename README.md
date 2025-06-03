@@ -7,8 +7,10 @@
 <h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
 </h5>
 
-## 🏆 GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=kavishkasandeep&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ---
 
@@ -47,10 +49,6 @@
 
 ---
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 <br>
 <h2 align = "left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></h2>
@@ -94,3 +92,6 @@
   
 
 <br/>
+
+## 🏆 GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=kavishkasandeep&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
