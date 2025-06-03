@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishkasandeep&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkasandeep" /> </p>
 
 
-<h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
+<h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
 </h5>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
@@ -21,6 +21,8 @@
 - 💬 Ask me about **Springboot**
 
 - 📫 How to reach me **kavypsandeep@gmail.com**
+
+- 😎 My quote is **"It's never too easy - never too late to start over,don't give up,keep moving forward.Happiness will come soon...!!"**
 
   <br>
 <h3 align = "left">Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=100px></h3>
