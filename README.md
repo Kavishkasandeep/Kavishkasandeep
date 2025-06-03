@@ -7,10 +7,8 @@
 <h5 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome+to+my+GitHub+profile...!;Undergraduate+IT+Student...;Backend+software+developer...;"/>
 </h5>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
